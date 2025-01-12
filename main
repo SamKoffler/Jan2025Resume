@@ -138,12 +138,13 @@
   \resumeSubHeadingListStart
 
   \resumeSubheading
-    {Undergraduate Learning Assistant for Python Programming 1}{Jan. 2025 -- Present}
+    {Undergraduate Learning Assistant, Python Programming I}{Jan. 2025 -- Present}
     {Michigan State University}{East Lansing, MI}
   \resumeItemListStart
-    \resumeItem{Teach two 2-hour lab sessions weekly, each with 30 students, covering project work and class content}
-    \resumeItem{Assist students with programming questions in help rooms and on discussion forums, completing 1 online shift weekly}
+    \resumeItem{Lead two 2-hour lab sessions weekly for 30 students, guiding project development and reinforcing core concepts.}
+    \resumeItem{Provide one-on-one programming support in help rooms and discussion forums, completing one weekly online shift.}
   \resumeItemListEnd
+
 
     \resumeSubheading
       {Software Developer Contractor}{Dec. 2024 -- Jan. 2025}
