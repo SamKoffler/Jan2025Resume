@@ -117,7 +117,7 @@
   \resumeSubHeadingListStart
     \resumeSubheading
       {Michigan State University}{East Lansing, MI}
-      {Bachelor of Science - Computer Science; GPA: 3.60}{Aug. 2022 -- May 2026}
+      {Bachelor of Science - Computer Science; GPA: 3.44}{Aug. 2022 -- May 2026}
 
   \resumeSubHeadingListEnd
 
@@ -128,7 +128,7 @@
     \small{\item{
      \textbf{Languages}{: Python, C++, C, JavaScript, ARM Assembly, Linux} \\
      \textbf{Developer Tools}{: Github, GitLab, PyCharm, VS Code, CLion, React, React Native, Visual Paradigm, AWS} \\
-     \textbf{Libraries}{: NumPy, SymPy, PyGame, Matplotlib, Pandas, Datetime}
+     \textbf{Libraries}{: NumPy, SymPy, PyGame, Matplotlib, Pandas, Datetime, Mongoose}
     }}\\
  \end{itemize}
 
@@ -137,22 +137,28 @@
 \section{Experience}
   \resumeSubHeadingListStart
 
-
+  \resumeSubheading
+    {Undergraduate Learning Assistant for Python Programming 1}{Jan. 2025 -- Present}
+    {Michigan State University}{East Lansing, MI}
+  \resumeItemListStart
+    \resumeItem{Teach two 2-hour lab sessions weekly, each with 30 students, covering project work and class content}
+    \resumeItem{Assist students with programming questions in help rooms and on discussion forums, completing 1 online shift weekly}
+  \resumeItemListEnd
 
     \resumeSubheading
+      {Software Developer Contractor}{Dec. 2024 -- Jan. 2025}
+      {Kennel Geek}{Seymour, IN}
+      \resumeItemListStart
+        \resumeItem{Completed 4 critical project milestones within 3 weeks, resolving over 20 complex dependency issues in React}
+        \resumeItem{Updated and restored the full stack of code by fixing code deprecations due to upgrading the database version.}
+      \resumeItemListEnd
+
+          \resumeSubheading
       {Project Lead}{Aug. 2024 -- Present}
       {Imagine Software}{East Lansing, MI}
       \resumeItemListStart
         \resumeItem{Led a team of 5 in developing an innovative, proprietary full-stack Calorie Counter application}
         \resumeItem{Encouraged test driven development to create an outline for a mobile app with React Native}
-      \resumeItemListEnd
-
-    \resumeSubheading
-      {President}{Aug. 2022 -- Present}
-      {Residence Hall Government}{East Lansing, MI}
-      \resumeItemListStart
-        \resumeItem{Directed a team of 7 to orchestrate over 15 large-scale events, increasing resident engagement among 1200 students}
-        \resumeItem{Managed a total budget of \$20,000 for event planning, purchases, and improvements to enhance resident living}
       \resumeItemListEnd
 
     \resumeSubheading
@@ -164,13 +170,6 @@
 
       \resumeItemListEnd
 
-    \resumeSubheading
-      {Shopper}{March 2022 -- June. 2023}
-      {Shipt}{Kalamazoo, MI}
-      \resumeItemListStart
-        \resumeItem{Shopped and delivered groceries to achieve a 4.9-star rating over 200+ grocery deliveries}
-
-      \resumeItemListEnd
 
 
     % \resumeSubheading
@@ -232,7 +231,6 @@
           {\textbf{Wordle Word Recommender} $|$ \emph{Python, PyCharm}}{April 2024 -- April 2024}
           \resumeItemListStart
             \resumeItem{Built a program to help a user guess a Wordle word based on their game information}
-            \resumeItem{Calculates and outputs the possible Wordle words by asking for the green, yellow, then grey letters}
             \resumeItem{Optimized runtime by starting with word bank of 15,000 words, then siphoning the possible words each check}
             \resumeItemListEnd
 
